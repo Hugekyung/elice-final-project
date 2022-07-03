@@ -62,7 +62,7 @@ AI_SERVER_URL               # AI SERVER URL
 
 ## 주요 기능 개발
 
-[`기능 구현 목록 - ChangeLog`](https://kdt-gitlab.elice.io/ai_track/class_04/ai_project/team10/back/-/wikis/ChangeLog)
+[`기능 구현 목록 - ChangeLog`](https://github.com/Hugekyung/elice-final-project/wiki/ChangeLog)
 
 ## 기타 프로젝트 자료(링크)
 
