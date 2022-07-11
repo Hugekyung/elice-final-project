@@ -68,3 +68,4 @@ AI_SERVER_URL               # AI SERVER URL
 
 [`DataBase ERD`](https://kdt-gitlab.elice.io/ai_track/class_04/ai_project/team10/back/-/wikis/ERD-Image) <br/>
 [`Project Architecture`](https://kdt-gitlab.elice.io/ai_track/class_04/ai_project/team10/back/-/wikis/Project-Architecture)
+[`API Documents`](https://documenter.getpostman.com/view/15413196/UzJQpEPz)
