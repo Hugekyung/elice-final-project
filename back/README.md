@@ -67,5 +67,5 @@ AI_SERVER_URL               # AI SERVER URL
 ## 기타 프로젝트 자료(링크)
 
 [`DataBase ERD`](https://kdt-gitlab.elice.io/ai_track/class_04/ai_project/team10/back/-/wikis/ERD-Image) <br/>
-[`Project Architecture`](https://kdt-gitlab.elice.io/ai_track/class_04/ai_project/team10/back/-/wikis/Project-Architecture)
+[`Project Architecture`](https://kdt-gitlab.elice.io/ai_track/class_04/ai_project/team10/back/-/wikis/Project-Architecture)<br/>
 [`API Documents`](https://documenter.getpostman.com/view/15413196/UzJQpEPz)
